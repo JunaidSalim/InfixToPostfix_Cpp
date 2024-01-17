@@ -1,7 +1,7 @@
 # InfixToPostfix_Cpp
 
 **Approach:**
-The code implements a basic calculator that reads an infix expression, converts it to postfix notation, and evaluates the result. It utilizes two custom stack classes, `Stack` for string elements and `IntStack` for double elements.
+The code implements a basic calculator/converter that reads an infix expression, converts it to postfix notation, and evaluates the result. It utilizes two custom stack classes, `Stack` for string elements and `IntStack` for double elements.
 
 **Algorithm Used:**
 1. The `Stack` class performs infix to postfix conversion using the Shunting Yard algorithm.
